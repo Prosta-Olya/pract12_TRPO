@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:basedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|c:\\users\\\u043E\u043B\u044C\u0433\u0430\\desktop\\pract12.2_trpo\\migrations\\20260131041352_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:migrations\\20260131041352_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:58:31.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDbService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\BaseDbService.cs",
+              "RelativeDocumentMoniker": "BaseDbService.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\BaseDbService.cs",
+              "RelativeToolTip": "BaseDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:04:18.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T04:36:10.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:59:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\StudentsService.cs",
+              "RelativeDocumentMoniker": "StudentsService.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\StudentsService.cs",
+              "RelativeToolTip": "StudentsService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:05:37.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentFormPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\StudentFormPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\StudentFormPage.xaml",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\StudentFormPage.xaml",
+              "RelativeToolTip": "Pages\\StudentFormPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T04:42:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-02T10:52:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T03:44:53.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T03:44:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentFormPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\StudentFormPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\StudentFormPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Pages\\StudentFormPage.xaml.cs",
+              "RelativeToolTip": "Pages\\StudentFormPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:48:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260131041352_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Migrations\\20260131041352_InitialDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260131041352_InitialDB.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u044C\u0433\u0430\\Desktop\\pract12.2_TRPO\\Migrations\\20260131041352_InitialDB.cs",
+              "RelativeToolTip": "Migrations\\20260131041352_InitialDB.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:13:53.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
