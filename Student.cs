@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace pract12_TRPO
@@ -43,6 +45,32 @@ namespace pract12_TRPO
         {
             get => _createdAt;
             set => SetProperty(ref _createdAt, value);
+        }
+
+        private UserProfile _userProfile;
+        public UserProfile UserProfile
+        {
+            get => _userProfile;
+            set => SetProperty(ref _userProfile, value);
+        }
+
+        private int _roleId;
+        public int RoleId
+        {
+            get => _roleId;
+            set => SetProperty(ref _roleId, value);
+        }
+        private Role _role;
+        public Role Role
+        {
+            get => _role;
+            set => SetProperty(ref _role, value);
+        }
+        private ObservableCollection<UserInterestGroup>? _userInterestGroups;
+        public ObservableCollection<UserInterestGroup>? UserInterestGroups
+        {
+            get => _userInterestGroups;
+            set => SetProperty(ref _userInterestGroups, value);
         }
     }
 }

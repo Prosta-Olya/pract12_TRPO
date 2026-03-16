@@ -54,5 +54,26 @@ namespace pract12_TRPO.Pages
                 service.Remove(student);
             }
         }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            service.GetAll();
+        }
+
+        private void roles(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new RoleList());
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (student == null)
+            {
+                MessageBox.Show("Выберите студента в списке!");
+                return;
+            }
+
+            NavigationService.Navigate(new InterestGroupUsersPage(student));
+        }
     }
 }

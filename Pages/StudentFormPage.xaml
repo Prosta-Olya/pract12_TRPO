@@ -4,9 +4,15 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:services="clr-namespace:pract12_TRPO.Services"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="600" d:DesignWidth="800"
       Title="StudentFormPage">
+    
+    <Page.Resources>
+        <services:RolesService x:Key="gService"/>
+    </Page.Resources>
+    
     <Grid>
         <StackPanel>
             <TextBlock Text="Логин" Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}"/>
@@ -32,8 +38,35 @@
             <TextBlock Text="Дата регистрации" Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}"/>
             <TextBox Style="{StaticResource MaterialDesignFilledTextBox}"
                      IsReadOnly="True"
-                     Text="{Binding CreatedAt}"
-                     Background="{DynamicResource MaterialDesignTextBoxBorder}"/>
+                     Text="{Binding CreatedAt}"/>
+            
+            <StackPanel>
+                <TextBlock Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}">Аватар</TextBlock>
+                <TextBox Text="{Binding UserProfile.AvatarUrl}"
+             Style="{StaticResource MaterialDesignFilledTextBox}"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}">Номер телефона</TextBlock>
+                <TextBox Text="{Binding UserProfile.Phone}"
+                         Style="{StaticResource MaterialDesignFilledTextBox}"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}">День рождения</TextBlock>
+                <TextBox Text="{Binding UserProfile.Birthday}"
+                         Style="{StaticResource MaterialDesignFilledTextBox}"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Foreground="{DynamicResource PrimaryHueDarkForegroundBrush}">Описание</TextBlock>
+                <TextBox Text="{Binding UserProfile.Bio}"
+             Style="{StaticResource MaterialDesignFilledTextBox}"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Роль</Label>
+                <ComboBox ItemsSource="{Binding Source={StaticResource gService}, Path=Roles}"
+                 DisplayMemberPath="Title"
+                 SelectedItem="{Binding Role}"/>
+            </StackPanel>
 
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
                     Command="{Binding SaveCommand}"

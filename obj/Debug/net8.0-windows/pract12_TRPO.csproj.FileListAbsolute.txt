@@ -369,3 +369,789 @@ C:\Users\Ольга\Desktop\pract12.2_TRPO\bin\Debug\net8.0-windows\MaterialDesi
 C:\Users\Ольга\Desktop\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
 C:\Users\Ольга\Desktop\pract12.2_TRPO\obj\Debug\net8.0-windows\App.baml
 C:\Users\Ольга\Desktop\pract12.2_TRPO\obj\Debug\net8.0-windows\Default.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Cosmos.CRTCompat.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\msvcp140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\vcruntime140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\vcruntime140_1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.exe
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.deps.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.runtimeconfig.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.pdb
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\App.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_Content.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.lref
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.g.resources
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\EFCoreSqlServerHierarchyId.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.sourcelink.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_.05BA828F.Up2Date
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\refint\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.pdb
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\ref\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract12.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Cosmos.CRTCompat.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\msvcp140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\vcruntime140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\vcruntime140_1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.exe
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.deps.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.runtimeconfig.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.pdb
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\App.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_Content.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.lref
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.g.resources
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\EFCoreSqlServerHierarchyId.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.sourcelink.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_.05BA828F.Up2Date
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\refint\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.pdb
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\ref\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Cosmos.CRTCompat.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\msvcp140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\vcruntime140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\vcruntime140_1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.exe
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.deps.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.runtimeconfig.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.pdb
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\App.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_Content.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.lref
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.g.resources
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\EFCoreSqlServerHierarchyId.cs
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.sourcelink.json
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_.05BA828F.Up2Date
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\refint\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.pdb
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\ref\pract12_TRPO.dll
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleUsersPage.baml
+C:\Users\Ольга\Desktop\ТРПО 2 семестр\pract13\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleUsersPage.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Cosmos.CRTCompat.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\msvcp140.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\vcruntime140.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\vcruntime140_1.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.exe
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.deps.json
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.runtimeconfig.json
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pract12_TRPO.pdb
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Client.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Core.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Direct.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Bcl.HashCode.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Cosmos.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\de\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\es\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\it\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x64\native\SqlServerSpatial160.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win-x86\native\SqlServerSpatial160.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleUsersPage.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\App.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\MainPage.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleUsersPage.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\App.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_Content.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.cache
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO_MarkupCompile.lref
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleForm.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\RoleList.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\StudentFormPage.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.g.resources
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfoInputs.cache
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.AssemblyInfo.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\EFCoreSqlServerHierarchyId.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.sourcelink.json
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_.05BA828F.Up2Date
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\refint\pract12_TRPO.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.pdb
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\pract12_TRPO.genruntimeconfig.cache
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\ref\pract12_TRPO.dll
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\AddInterestGroup.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\InterestgroupPage.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\InterestGroupUsersPage.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\AddInterestGroup.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\InterestgroupPage.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\InterestGroupUsersPage.baml

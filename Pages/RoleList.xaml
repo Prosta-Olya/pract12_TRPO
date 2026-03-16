@@ -1,0 +1,37 @@
+﻿<Page x:Class="pract12_TRPO.Pages.RoleList"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pract12_TRPO.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      DataContext="{Binding RelativeSource={RelativeSource Self}}"
+      Title="RoleList">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Button Click="back">Назад</Button>
+            <Button Click="add">Добавить</Button>
+            <Button Click="remove">Удалить</Button>
+            <Button Content="Пользователи" Click="ViewUsers_Click"/>
+        </StackPanel>
+        <ListView Grid.Row="1"
+         ItemsSource="{Binding service.Roles}"
+         MouseDoubleClick="edit"
+         SelectedItem="{Binding current}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                    <Run Text="Роль: "/>
+                    <Run Text="{Binding Title}"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

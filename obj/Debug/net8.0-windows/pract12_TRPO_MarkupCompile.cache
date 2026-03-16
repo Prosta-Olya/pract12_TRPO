@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Ольга\Desktop\pract12.2_TRPO\obj\Debug\net8.0-windows\
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\
 pract12_TRPO
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Ольга\Desktop\pract12.2_TRPO\App.xaml
-42093066119
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\App.xaml
+9-1153453
 22685160995
-181566505316
+371488875952
 242-1866254343
-Default.xaml;MainWindow.xaml;Pages\MainPage.xaml;Pages\StudentFormPage.xaml;
+MainWindow.xaml;Pages\AddInterestGroup.xaml;Pages\InterestgroupPage.xaml;Pages\InterestGroupUsersPage.xaml;Pages\MainPage.xaml;Pages\RoleForm.xaml;Pages\RoleList.xaml;Pages\RoleUsersPage.xaml;Pages\StudentFormPage.xaml;
 
 False
 

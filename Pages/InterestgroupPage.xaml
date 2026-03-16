@@ -1,0 +1,39 @@
+﻿<Page x:Class="pract12_TRPO.Pages.InterestgroupPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pract12_TRPO.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InterestgroupPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Button Click="Button_Click">Добавить</Button>
+            <Button Click="Button_Click_1">Удалить</Button>
+            <Button Click="Button_Click_2">Назад</Button>
+        </StackPanel>
+
+        <ListView Grid.Row="1"
+  ItemsSource="{Binding service.Cources}"
+  MouseDoubleClick="ListView_MouseDoubleClick"
+  SelectedItem="{Binding current, Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                <Run Text="Id "/>
+                <Run Text="{Binding Id}"/>
+                <Run Text="Курс "/>
+                <Run Text="{Binding Title}"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>

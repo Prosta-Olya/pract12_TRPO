@@ -31,6 +31,8 @@ namespace pract12_TRPO.Pages
                 _student = _editStudent;
                 isEdit = true;
             }
+            if (_student.UserProfile == null) //если сущности паспорта нет - создаем её
+                _student.UserProfile = new();
             DataContext = _student;
         }
         private void save(object sender, RoutedEventArgs e)

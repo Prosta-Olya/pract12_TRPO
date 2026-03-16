@@ -6,6 +6,7 @@
       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
+      Loaded="Page_Loaded"
       Title="MainPage">
     <Grid>
         <Grid.RowDefinitions>
@@ -19,6 +20,12 @@
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
                     Click="remove"
                     Content="Удалить"/>
+            <Button Style="{StaticResource MaterialDesignRaisedButton}"
+        Click="roles"
+        Content="Роли"/>
+            <Button Style="{StaticResource MaterialDesignRaisedButton}"
+Click="Button_Click"
+Content="Группы"/>
         </StackPanel>
         <ListView Grid.Row="1"
                   ItemsSource="{Binding service.Students}"
@@ -34,6 +41,17 @@
                         <TextBlock Text="{Binding CreatedAt, StringFormat={}{0:dd.MM.yyyy}}" 
                                    Style="{StaticResource MaterialDesignCaptionTextBlock}"
                                    Foreground="{DynamicResource SecondaryHueMidForegroundBrush}"/>
+                        <TextBlock>Данные из профиля</TextBlock>
+                        <TextBlock Style="{StaticResource MaterialDesignBody2TextBlock}">
+                         <Run Text="Номер телефона: "/>
+                         <Run Text="{Binding UserProfile.Phone}"/>
+                         <Run Text="День рождения: "/>
+                         <Run Text="{Binding UserProfile.Birthday, StringFormat={}{0:dd.MM.yyyy}}"/>
+                        </TextBlock>
+                        <TextBlock>
+                        <Run Text="Роль: "/>
+                        <Run Text="{Binding Role.Title}"/>
+                        </TextBlock>
                     </StackPanel>
                 </DataTemplate>
             </ListView.ItemTemplate>

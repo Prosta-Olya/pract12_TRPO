@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
@@ -95,6 +96,9 @@ namespace pract12_TRPO
                 Email = student.Email,
                 Password = student.Password,
                 CreatedAt = DateTime.Now,
+                UserProfile = student.UserProfile,
+                RoleId = student.RoleId,
+                Role = student.Role,
             };
             string message = Validation(student);
             if (message == "")
@@ -112,13 +116,17 @@ namespace pract12_TRPO
         public int Commit() => _db.SaveChanges();
         public void GetAll()
         {
-            var students = _db.Students.ToList();
+            var students = _db.Students
+            .Include(s => s.UserProfile)
+            .Include(s => s.Role)
+            .ToList();
             Students.Clear();
             foreach (var student in students)
             {
                 Students.Add(student);
             }
         }
+
         public void Remove(Student student)
         {
             _db.Remove<Student>(student);

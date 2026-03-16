@@ -1,0 +1,86 @@
+﻿<Page x:Class="pract12_TRPO.Pages.InterestGroupUsersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pract12_TRPO.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InterestGroupUsersPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Click="back" Grid.Column="0">Назад</Button>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Margin="5">
+            <Label FontSize="20" FontWeight="Bold">Информация о пользователе</Label>
+
+            <ListView Height="200" x:Name="StudentsList"
+               ItemsSource="{Binding Students}" 
+               SelectedItem="{Binding SelectedStudent}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding LastName}"/>
+                            <TextBlock Text=" "/>
+                            <TextBlock Text="{Binding FirstName}"/>
+                            <TextBlock Text=" "/>
+                            <TextBlock Text="{Binding MiddleName}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <StackPanel Margin="0,10,0,0">
+                <Label>Дата вступления</Label>
+                <DatePicker x:Name="StartDatePicker" SelectedDate="{Binding StartDate, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,10,0,0">
+                <Label>Роль в группе</Label>
+                <ComboBox x:Name="RoleComboBox" 
+                          SelectedItem="{Binding SelectedRole, UpdateSourceTrigger=PropertyChanged}"
+                          Height="25">
+                    <ComboBoxItem Content="Обычный участник"/>
+                    <ComboBoxItem Content="Модератор"/>
+                </ComboBox>
+            </StackPanel>
+
+            <Button Click="enter" Margin="0,15,0,0" Height="30" FontWeight="Bold">
+                Добавить в группу
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5">
+            <Label FontSize="20" FontWeight="Bold">Доступные группы</Label>
+            <ListView x:Name="CourcesList" 
+               ItemsSource="{Binding Cources}" 
+               SelectedItem="{Binding current}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock>
+                            <Run Text="ID: "/>
+                            <Run Text="{Binding Id}"/>
+                            <Run Text=" | "/>
+                            <Run Text="{Binding Title}" FontWeight="Bold"/>
+                        </TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>
