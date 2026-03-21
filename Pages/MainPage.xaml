@@ -26,6 +26,9 @@
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
 Click="Button_Click"
 Content="Группы"/>
+            <Button Style="{StaticResource MaterialDesignRaisedButton}"
+Click="Button_Click_1"
+Content="Добавить группу"/>
         </StackPanel>
         <ListView Grid.Row="1"
                   ItemsSource="{Binding service.Students}"

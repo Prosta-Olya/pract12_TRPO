@@ -16,39 +16,15 @@ namespace pract12_TRPO
             get => _id;
             set => SetProperty(ref _id, value);
         }
-        private string _login;
-        public string Login
-        {
-            get => _login;
-            set => SetProperty(ref _login, value);
-        }
-        private string _Name;
-        public string Name
-        {
-            get => _Name;
-            set => SetProperty(ref _Name, value);
-        }
-        private string _email;
-        public string Email
-        {
-            get => _email;
-            set => SetProperty(ref _email, value);
-        }
-        private string _password;
-        public string Password
-        {
-            get => _password;
-            set => SetProperty(ref _password, value);
-        }
-        private DateTime _createdAt;
-        public DateTime CreatedAt
+        private DateTime? _createdAt;
+        public DateTime? CreatedAt
         {
             get => _createdAt;
             set => SetProperty(ref _createdAt, value);
         }
 
-        private UserProfile _userProfile;
-        public UserProfile UserProfile
+        private UserProfile? _userProfile;
+        public UserProfile? UserProfile
         {
             get => _userProfile;
             set => SetProperty(ref _userProfile, value);
@@ -60,11 +36,38 @@ namespace pract12_TRPO
             get => _roleId;
             set => SetProperty(ref _roleId, value);
         }
-        private Role _role;
-        public Role Role
+        private Role? _role;
+        public Role? Role
         {
             get => _role;
             set => SetProperty(ref _role, value);
+        }
+        private string? _login;
+        public string? Login
+        {
+            get => _login;
+            set => SetProperty(ref _login, value);
+        }
+
+        private string? _Name;
+        public string? Name
+        {
+            get => _Name;
+            set => SetProperty(ref _Name, value);
+        }
+
+        private string? _email;
+        public string? Email
+        {
+            get => _email;
+            set => SetProperty(ref _email, value);
+        }
+
+        private string? _password;
+        public string? Password
+        {
+            get => _password;
+            set => SetProperty(ref _password, value);
         }
         private ObservableCollection<UserInterestGroup>? _userInterestGroups;
         public ObservableCollection<UserInterestGroup>? UserInterestGroups

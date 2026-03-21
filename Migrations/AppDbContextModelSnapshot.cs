@@ -22,21 +22,6 @@ namespace pract12_TRPO.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("InterestGroupStudent", b =>
-                {
-                    b.Property<int>("InterestGroupsId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("StudentsId")
-                        .HasColumnType("int");
-
-                    b.HasKey("InterestGroupsId", "StudentsId");
-
-                    b.HasIndex("StudentsId");
-
-                    b.ToTable("InterestGroupStudent");
-                });
-
             modelBuilder.Entity("pract12_TRPO.InterestGroup", b =>
                 {
                     b.Property<int>("Id")
@@ -51,9 +36,12 @@ namespace pract12_TRPO.Migrations
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("Title")
+                        .IsUnique();
 
                     b.ToTable("InterestGroups");
                 });
@@ -114,7 +102,7 @@ namespace pract12_TRPO.Migrations
 
             modelBuilder.Entity("pract12_TRPO.UserInterestGroup", b =>
                 {
-                    b.Property<int>("StudentId")
+                    b.Property<int>("UserId")
                         .HasColumnType("int");
 
                     b.Property<int>("InterestGroupId")
@@ -123,10 +111,10 @@ namespace pract12_TRPO.Migrations
                     b.Property<bool>("IsModerator")
                         .HasColumnType("bit");
 
-                    b.Property<DateOnly>("JoineAt")
+                    b.Property<DateOnly>("JoinedAt")
                         .HasColumnType("date");
 
-                    b.HasKey("StudentId", "InterestGroupId");
+                    b.HasKey("UserId", "InterestGroupId");
 
                     b.HasIndex("InterestGroupId");
 
@@ -164,22 +152,7 @@ namespace pract12_TRPO.Migrations
                     b.HasIndex("StudentId")
                         .IsUnique();
 
-                    b.ToTable("UserProfile");
-                });
-
-            modelBuilder.Entity("InterestGroupStudent", b =>
-                {
-                    b.HasOne("pract12_TRPO.InterestGroup", null)
-                        .WithMany()
-                        .HasForeignKey("InterestGroupsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("pract12_TRPO.Student", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.ToTable("UserProfiles");
                 });
 
             modelBuilder.Entity("pract12_TRPO.Student", b =>
@@ -203,7 +176,7 @@ namespace pract12_TRPO.Migrations
 
                     b.HasOne("pract12_TRPO.Student", "Student")
                         .WithMany("UserInterestGroups")
-                        .HasForeignKey("StudentId")
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

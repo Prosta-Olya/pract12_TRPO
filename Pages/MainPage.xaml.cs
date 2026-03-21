@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using pract12_TRPO.Services;
 
 namespace pract12_TRPO.Pages
 {
@@ -23,6 +24,7 @@ namespace pract12_TRPO.Pages
     {
         public StudentsService service { get; set; } = new();
         public Student? student { get; set; } = null;
+        public InterestGroupService service2 { get; set; } = new();
         public MainPage()
         {
             InitializeComponent();
@@ -74,6 +76,11 @@ namespace pract12_TRPO.Pages
             }
 
             NavigationService.Navigate(new InterestGroupUsersPage(student));
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new AddInterestGroup(null, service2));
         }
     }
 }

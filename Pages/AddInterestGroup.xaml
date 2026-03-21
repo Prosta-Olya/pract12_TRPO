@@ -24,8 +24,12 @@
 
         <StackPanel Grid.Row="1">
             <StackPanel>
-                <Label>Название курса</Label>
+                <Label>Название группы</Label>
                 <TextBox Text="{Binding Title}"/>
+            </StackPanel>
+            <StackPanel>
+                <Label>Описание</Label>
+                <TextBox Text="{Binding Description}"/>
             </StackPanel>
             <StackPanel>
                 <Button Click="Button_Click">Сохранить</Button>

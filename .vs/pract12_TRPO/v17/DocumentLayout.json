@@ -3,48 +3,68 @@
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\addinterestgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\addinterestgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\services\\interestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:services\\interestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\services\\userinterestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:services\\userinterestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\interestgroupuserspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\interestgroupuserspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\interestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:interestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\services\\userinterestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:services\\userinterestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\services\\interestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:services\\interestgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\userinterestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:userinterestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\interestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:interestgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\addinterestgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\addinterestgroup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\addinterestgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\addinterestgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\interestgroupuserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\interestgroupuserspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\interestgrouppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,24 +75,12 @@
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\interestgrouppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\addinterestgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\addinterestgroup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\rolelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\rolelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\rolelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\rolelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\services\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:services\\rolesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\roleuserspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,14 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:pages\\studentformpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|solutionrelative:userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{129AC459-9A17-4E89-9A54-3E15BAD086C6}|pract12_TRPO.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_trpo\\pages\\studentformpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,43 +126,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InterestGroupUsersPage.xaml.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestGroupUsersPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\InterestGroupUsersPage.xaml.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestGroupUsersPage.xaml.cs",
-              "RelativeToolTip": "Pages\\InterestGroupUsersPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T16:22:37.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "Pages\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-31T04:36:10.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InterestGroup.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\InterestGroup.cs",
-              "RelativeDocumentMoniker": "InterestGroup.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\InterestGroup.cs",
-              "RelativeToolTip": "InterestGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T11:49:59.534Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -171,86 +136,178 @@
               "RelativeDocumentMoniker": "Services\\InterestGroupService.cs",
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Services\\InterestGroupService.cs",
               "RelativeToolTip": "Services\\InterestGroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T12:27:30.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAlwEsAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T04:58:31.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AppDbContext.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\AppDbContext.cs",
-              "RelativeToolTip": "AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:02:57.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddInterestGroup.xaml.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\AddInterestGroup.xaml.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml.cs",
-              "RelativeToolTip": "Pages\\AddInterestGroup.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T15:59:54.196Z",
+              "WhenOpened": "2026-03-15T12:27:30.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserInterestGroupService.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Services\\UserInterestGroupService.cs",
               "RelativeDocumentMoniker": "Services\\UserInterestGroupService.cs",
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Services\\UserInterestGroupService.cs",
               "RelativeToolTip": "Services\\UserInterestGroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:53:29.411Z"
+              "WhenOpened": "2026-03-16T10:53:29.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-31T04:36:10.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterestGroupUsersPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestGroupUsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\InterestGroupUsersPage.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestGroupUsersPage.xaml.cs",
+              "RelativeToolTip": "Pages\\InterestGroupUsersPage.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwE8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:22:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Role.cs",
+              "RelativeDocumentMoniker": "Role.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Role.cs",
+              "RelativeToolTip": "Role.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:35:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserProfile.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\UserProfile.cs",
+              "RelativeToolTip": "UserProfile.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:54:40.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T03:59:21.113Z"
+              "WhenOpened": "2026-01-31T03:59:21.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "InterestGroup.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\InterestGroup.cs",
+              "RelativeDocumentMoniker": "InterestGroup.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\InterestGroup.cs",
+              "RelativeToolTip": "InterestGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:49:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserInterestGroup.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\UserInterestGroup.cs",
               "RelativeDocumentMoniker": "UserInterestGroup.cs",
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\UserInterestGroup.cs",
               "RelativeToolTip": "UserInterestGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T11:54:23.604Z"
+              "WhenOpened": "2026-03-15T11:54:23.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddInterestGroup.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddInterestGroup.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml",
+              "RelativeToolTip": "Pages\\AddInterestGroup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-15T15:57:49.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "ObservableObject.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\ObservableObject.cs",
+              "RelativeToolTip": "ObservableObject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T04:41:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddInterestGroup.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddInterestGroup.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml.cs",
+              "RelativeToolTip": "Pages\\AddInterestGroup.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T15:59:54.196Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\StudentsService.cs",
+              "RelativeDocumentMoniker": "StudentsService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\StudentsService.cs",
+              "RelativeToolTip": "StudentsService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAvwG4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:05:37.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1IAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:58:31.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "InterestGroupUsersPage.xaml",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestGroupUsersPage.xaml",
               "RelativeDocumentMoniker": "Pages\\InterestGroupUsersPage.xaml",
@@ -261,7 +318,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:02:57.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "InterestgroupPage.xaml",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestgroupPage.xaml",
               "RelativeDocumentMoniker": "Pages\\InterestgroupPage.xaml",
@@ -272,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "InterestgroupPage.xaml.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\InterestgroupPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\InterestgroupPage.xaml.cs",
@@ -284,18 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddInterestGroup.xaml",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml",
-              "RelativeDocumentMoniker": "Pages\\AddInterestGroup.xaml",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\AddInterestGroup.xaml",
-              "RelativeToolTip": "Pages\\AddInterestGroup.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-15T15:57:49.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "RoleForm.xaml",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleForm.xaml",
               "RelativeDocumentMoniker": "Pages\\RoleForm.xaml",
@@ -306,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "RoleUsersPage.xaml",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleUsersPage.xaml",
               "RelativeDocumentMoniker": "Pages\\RoleUsersPage.xaml",
@@ -317,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "StudentFormPage.xaml",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\StudentFormPage.xaml",
               "RelativeDocumentMoniker": "Pages\\StudentFormPage.xaml",
@@ -328,31 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "StudentsService.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\StudentsService.cs",
-              "RelativeDocumentMoniker": "StudentsService.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\StudentsService.cs",
-              "RelativeToolTip": "StudentsService.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAkwHgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T05:05:37.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RoleList.xaml.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleList.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\RoleList.xaml.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleList.xaml.cs",
-              "RelativeToolTip": "Pages\\RoleList.xaml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAEwEQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T16:31:58.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "RoleUsersPage.xaml.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleUsersPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\RoleUsersPage.xaml.cs",
@@ -364,19 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Role.cs",
-              "RelativeDocumentMoniker": "Role.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Role.cs",
-              "RelativeToolTip": "Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T12:35:38.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "RolesService.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Services\\RolesService.cs",
               "RelativeDocumentMoniker": "Services\\RolesService.cs",
@@ -388,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "RoleList.xaml",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleList.xaml",
               "RelativeDocumentMoniker": "Pages\\RoleList.xaml",
@@ -399,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "RoleForm.xaml.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\Pages\\RoleForm.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\RoleForm.xaml.cs",
@@ -408,18 +430,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAswCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T16:36:49.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\UserProfile.cs",
-              "RelativeDocumentMoniker": "UserProfile.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\pract13.2_TRPO\\UserProfile.cs",
-              "RelativeToolTip": "UserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T11:54:40.208Z"
             },
             {
               "$type": "Document",

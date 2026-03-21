@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.ObjectModel;
-using System.Linq;
-using Microsoft.EntityFrameworkCore;
+using System.Data.SqlTypes;
+using System.Windows;
 
 namespace pract12_TRPO.Services
 {
@@ -23,13 +22,40 @@ namespace pract12_TRPO.Services
             InterestGroups.Add(interestGroup);
         }
 
+        public void Update(InterestGroup interestGroup)
+        {
+            var existing = _db.InterestGroups.Find(interestGroup.Id);
+            if (existing == null) return;
+
+            if (_db.InterestGroups.Any(g => g.Title == interestGroup.Title && g.Id != interestGroup.Id))
+                throw new InvalidOperationException("Группа с таким названием уже существует");
+
+            existing.Title = interestGroup.Title;
+            existing.Description = interestGroup.Description;
+            Commit();
+        }
+
         public void GetAll()
         {
-            var interestGroups = _db.InterestGroups.ToList();
-            InterestGroups.Clear();
-            foreach (var interestGroup in interestGroups)
+            try
             {
-                InterestGroups.Add(interestGroup);
+                var interestGroups = _db.InterestGroups
+                    .Include(g => g.UserInterestGroups)
+                    .ThenInclude(uig => uig.Student)
+                    .ToList();
+
+                InterestGroups.Clear();
+                foreach (var group in interestGroups)
+                {
+                    InterestGroups.Add(group);
+                }
+            }
+            catch (SqlNullValueException ex)
+            {
+                // Выводим имя поля, если оно есть в данных исключения
+                var fieldName = ex.Data.Contains("ColumnName") ? ex.Data["ColumnName"] : "Неизвестно";
+                MessageBox.Show($"Ошибка NULL в поле: {fieldName}\n\n{ex.Message}");
+                throw;
             }
         }
 
@@ -46,25 +72,13 @@ namespace pract12_TRPO.Services
                     InterestGroups.Remove(interestGroup);
         }
 
-        public void LoadRelation(InterestGroup interestGroup, string relation)
-        {
-            var entry = _db.Entry(interestGroup);
-            var navigation = entry.Metadata.FindNavigation(relation)
-                ?? throw new InvalidOperationException($"Navigation '{relation}' not found");
-
-            if (navigation.IsCollection)
-            {
-                entry.Collection(relation).Load();
-            }
-            else
-            {
-                entry.Reference(relation).Load();
-            }
-        }
         public void LoadMembers(InterestGroup interestGroup)
         {
             _db.Entry(interestGroup)
                 .Collection(g => g.UserInterestGroups)
+                .Query()
+                .Include(uig => uig.Student)
+                .ThenInclude(s => s.UserProfile)
                 .Load();
         }
     }

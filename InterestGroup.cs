@@ -11,15 +11,15 @@ namespace pract12_TRPO
             set => SetProperty(ref _id, value);
         }
 
-        private string _title;
-        public string Title
+        private string? _title;
+        public string? Title
         {
             get => _title;
             set => SetProperty(ref _title, value);
         }
 
-        private string _description;
-        public string Description
+        private string? _description;
+        public string? Description
         {
             get => _description;
             set => SetProperty(ref _description, value);

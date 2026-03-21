@@ -32,15 +32,15 @@ namespace pract12_TRPO
             set => SetProperty(ref _interestGroup, value);
         }
 
-        private DateOnly _joinedAt;
-        public DateOnly JoinedAt
+        private DateOnly? _joinedAt;
+        public DateOnly? JoinedAt
         {
             get => _joinedAt;
             set => SetProperty(ref _joinedAt, value);
         }
 
-        private bool _isModerator;
-        public bool IsModerator
+        private bool? _isModerator;
+        public bool? IsModerator
         {
             get => _isModerator;
             set => SetProperty(ref _isModerator, value);

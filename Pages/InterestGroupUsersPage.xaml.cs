@@ -37,34 +37,24 @@ namespace pract12_TRPO.Pages
             }
         }
 
-        // Для привязки ItemsSource="{Binding Students}"
-        public System.Collections.ObjectModel.ObservableCollection<Student> Students
-            => _studentService.Students;
+        public System.Collections.ObjectModel.ObservableCollection<Student> Students => _studentService.Students;
 
-        // Для привязки SelectedItem="{Binding SelectedStudent}"
         private Student? _selectedStudent;
         public Student? SelectedStudent
         {
             get => _selectedStudent;
-            set
-            {
-                _selectedStudent = value;
-            }
+            set => _selectedStudent = value;
         }
 
-        // Для привязки ItemsSource="{Binding Cources}"
-        public System.Collections.ObjectModel.ObservableCollection<InterestGroup> Cources
-            => _groupService.InterestGroups;
+        public System.Collections.ObjectModel.ObservableCollection<InterestGroup> Groups => _groupService.InterestGroups;
 
-        // Для привязки SelectedItem="{Binding current}"
-        private InterestGroup? _current;
-        public InterestGroup? current
+        private InterestGroup? _currentGroup;
+        public InterestGroup? CurrentGroup
         {
-            get => _current;
-            set => _current = value;
+            get => _currentGroup;
+            set => _currentGroup = value;
         }
 
-        // Для привязки SelectedDate="{Binding StartDate}"
         private DateOnly? _startDate;
         public DateOnly? StartDate
         {
@@ -72,7 +62,6 @@ namespace pract12_TRPO.Pages
             set => _startDate = value;
         }
 
-        // Для привязки SelectedItem="{Binding SelectedRole}"
         private string _selectedRole = "Обычный участник";
         public string SelectedRole
         {
@@ -89,9 +78,8 @@ namespace pract12_TRPO.Pages
         private void enter(object sender, RoutedEventArgs e)
         {
             var student = SelectedStudent ?? StudentsList.SelectedItem as Student;
-            var group = current ?? CourcesList.SelectedItem as InterestGroup;
+            var group = CurrentGroup ?? (FindName("GroupsList") as ListBox)?.SelectedItem as InterestGroup;
 
-            // Конвертируем DateTime? в DateOnly?
             var date = StartDate ?? (StartDatePicker.SelectedDate.HasValue
                 ? DateOnly.FromDateTime(StartDatePicker.SelectedDate.Value)
                 : (DateOnly?)null);

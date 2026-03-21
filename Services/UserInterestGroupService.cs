@@ -37,5 +37,17 @@ namespace pract12_TRPO.Services
                 _db.SaveChanges();
             }
         }
+
+        public void UpdateStudentRole(int studentId, int groupId, bool isModerator)
+        {
+            var record = _db.UserInterestGroups
+                .FirstOrDefault(uig => uig.UserId == studentId && uig.InterestGroupId == groupId);
+
+            if (record != null)
+            {
+                record.IsModerator = isModerator;
+                _db.SaveChanges();
+            }
+        }
     }
 }
