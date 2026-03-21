@@ -60,6 +60,13 @@ namespace pract12_TRPO.Pages
         private void Page_Loaded(object sender, RoutedEventArgs e)
         {
             service.GetAll();
+            var listView = FindName("List") as ListView;
+            if (listView != null)
+            {
+                var items = listView.Items.Cast<object>().ToList();
+                listView.ItemsSource = null;
+                listView.ItemsSource = items;
+            }
         }
 
         private void roles(object sender, RoutedEventArgs e)
@@ -81,6 +88,11 @@ namespace pract12_TRPO.Pages
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new AddInterestGroup(null, service2));
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new GroupList());
         }
     }
 }

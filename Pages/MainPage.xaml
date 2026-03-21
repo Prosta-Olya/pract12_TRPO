@@ -16,21 +16,25 @@
         <StackPanel Orientation="Horizontal">
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
                     Click="go_form"
-                    Content="Добавить"/>
+                    Content="Добавить" Padding="5" Margin="5 0"/>
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
                     Click="remove"
-                    Content="Удалить"/>
+                    Content="Удалить" Padding="5" Margin="5 0"/>
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
         Click="roles"
-        Content="Роли"/>
+        Content="Роли" Padding="5" Margin="5 0"/>
+            <Button Style="{StaticResource MaterialDesignRaisedButton}"
+Click="Button_Click_2"
+Content="Группы" Padding="5" Margin="5 0"/>
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
 Click="Button_Click"
-Content="Группы"/>
+Content="Добавить в группу" Padding="5" Margin="5 0"/>
             <Button Style="{StaticResource MaterialDesignRaisedButton}"
 Click="Button_Click_1"
-Content="Добавить группу"/>
+Content="Создать группу" Padding="5" Margin="5 0"/>
         </StackPanel>
-        <ListView Grid.Row="1"
+        <ListView x:Name="List"
+                  Grid.Row="1"
                   ItemsSource="{Binding service.Students}"
                   MouseDoubleClick="Edit"
                   SelectedItem="{Binding student}"
@@ -54,6 +58,10 @@ Content="Добавить группу"/>
                         <TextBlock>
                         <Run Text="Роль: "/>
                         <Run Text="{Binding Role.Title}"/>
+                        </TextBlock>
+                        <TextBlock Margin="0,2,0,0" TextWrapping="Wrap">
+                        <Run Text="Группы: " FontWeight="Bold"/>
+                        <Run Text="{Binding GroupsPreview, Mode=OneWay}"/>
                         </TextBlock>
                     </StackPanel>
                 </DataTemplate>

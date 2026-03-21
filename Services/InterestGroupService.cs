@@ -15,7 +15,10 @@ namespace pract12_TRPO.Services
         public void Add(InterestGroup interestGroup)
         {
             if (_db.InterestGroups.Any(g => g.Title == interestGroup.Title))
-                throw new InvalidOperationException("Группа с таким названием уже существует");
+            {
+                MessageBox.Show("Группа с таким названием уже существует");
+                return;
+            }   
 
             _db.InterestGroups.Add(interestGroup);
             Commit();
@@ -52,7 +55,6 @@ namespace pract12_TRPO.Services
             }
             catch (SqlNullValueException ex)
             {
-                // Выводим имя поля, если оно есть в данных исключения
                 var fieldName = ex.Data.Contains("ColumnName") ? ex.Data["ColumnName"] : "Неизвестно";
                 MessageBox.Show($"Ошибка NULL в поле: {fieldName}\n\n{ex.Message}");
                 throw;
@@ -80,6 +82,21 @@ namespace pract12_TRPO.Services
                 .Include(uig => uig.Student)
                 .ThenInclude(s => s.UserProfile)
                 .Load();
+        }
+
+        public void LoadRelation(InterestGroup role, string relation)
+        {
+            var entry = _db.Entry(role);
+            var navigation = entry.Metadata.FindNavigation(relation)
+            ?? throw new InvalidOperationException($"Navigation '{relation}' not found");
+            if (navigation.IsCollection)
+            {
+                entry.Collection(relation).Load();
+            }
+            else
+            {
+                entry.Reference(relation).Load();
+            }
         }
     }
 }

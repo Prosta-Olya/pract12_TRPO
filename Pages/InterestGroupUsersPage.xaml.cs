@@ -1,5 +1,6 @@
 ﻿using pract12_TRPO.Services;
 using System;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
@@ -11,6 +12,7 @@ namespace pract12_TRPO.Pages
         private readonly AppDbContext _db = BaseDbService.Instance.Context;
         private readonly StudentsService _studentService = new();
         private readonly InterestGroupService _groupService = new();
+
         private readonly Student? _preselectedStudent;
 
         public InterestGroupUsersPage(Student? preselectedStudent = null)
@@ -26,33 +28,112 @@ namespace pract12_TRPO.Pages
             _studentService.GetAll();
             _groupService.GetAll();
 
+            Students = new ObservableCollection<Student>(_studentService.Students);
+            AllGroups = new ObservableCollection<InterestGroup>(_groupService.InterestGroups);
+
             if (_preselectedStudent != null)
             {
                 var student = Students.FirstOrDefault(s => s.Id == _preselectedStudent.Id);
                 if (student != null)
                 {
                     SelectedStudent = student;
-                    StudentsList.ScrollIntoView(student);
+                    UpdateAvailableGroups();
+
+                    if (FindName("StudentsList") is ListBox studentsListBox)
+                    {
+                        studentsListBox.SelectedItem = student;
+                        studentsListBox.ScrollIntoView(student);
+                    }
                 }
+            }
+            else
+            {
+                UpdateAvailableGroups();
             }
         }
 
-        public System.Collections.ObjectModel.ObservableCollection<Student> Students => _studentService.Students;
+        public ObservableCollection<Student> Students { get; private set; } = new();
 
         private Student? _selectedStudent;
         public Student? SelectedStudent
         {
             get => _selectedStudent;
-            set => _selectedStudent = value;
+            set
+            {
+                if (_selectedStudent != value)
+                {
+                    _selectedStudent = value;
+                    UpdateAvailableGroups();
+
+                    if (FindName("StudentInfoBlock") is TextBlock infoBlock && value != null)
+                    {
+                        infoBlock.Text = $"{value.Name}\n{value.Email}\n{value.Login}";
+                    }
+                    else if (FindName("StudentInfoBlock") is TextBlock emptyBlock)
+                    {
+                        emptyBlock.Text = "";
+                    }
+                }
+            }
         }
 
-        public System.Collections.ObjectModel.ObservableCollection<InterestGroup> Groups => _groupService.InterestGroups;
+        public ObservableCollection<InterestGroup> AllGroups { get; private set; } = new();
+
+        private ObservableCollection<InterestGroup> _availableGroups = new();
+        public ObservableCollection<InterestGroup> AvailableGroups
+        {
+            get => _availableGroups;
+            set
+            {
+                _availableGroups = value;
+                OnPropertyChanged(nameof(Cources));
+            }
+        }
+
+        public ObservableCollection<InterestGroup> Cources => AvailableGroups;
 
         private InterestGroup? _currentGroup;
         public InterestGroup? CurrentGroup
         {
             get => _currentGroup;
             set => _currentGroup = value;
+        }
+
+        public InterestGroup? current
+        {
+            get => CurrentGroup;
+            set => CurrentGroup = value;
+        }
+
+        private void UpdateAvailableGroups()
+        {
+            if (SelectedStudent == null)
+            {
+                AvailableGroups = new ObservableCollection<InterestGroup>(AllGroups);
+                return;
+            }
+
+            var existingGroupIds = _db.UserInterestGroups
+                .Where(uig => uig.UserId == SelectedStudent.Id)
+                .Select(uig => uig.InterestGroupId)
+                .ToList();
+
+            var available = AllGroups
+                .Where(g => !existingGroupIds.Contains(g.Id))
+                .ToList();
+
+            AvailableGroups = new ObservableCollection<InterestGroup>(available);
+
+            if (FindName("CourcesList") is ListView groupsList)
+            {
+                groupsList.ItemsSource = null;
+                groupsList.ItemsSource = AvailableGroups;
+            }
+        }
+
+        private void OnPropertyChanged(string propertyName)
+        {
+
         }
 
         private DateOnly? _startDate;
@@ -77,36 +158,43 @@ namespace pract12_TRPO.Pages
 
         private void enter(object sender, RoutedEventArgs e)
         {
-            var student = SelectedStudent ?? StudentsList.SelectedItem as Student;
-            var group = CurrentGroup ?? (FindName("GroupsList") as ListBox)?.SelectedItem as InterestGroup;
+            var student = SelectedStudent;
+            if (student == null && FindName("StudentsList") is ListView studentsList)
+                student = studentsList.SelectedItem as Student;
 
-            var date = StartDate ?? (StartDatePicker.SelectedDate.HasValue
-                ? DateOnly.FromDateTime(StartDatePicker.SelectedDate.Value)
-                : (DateOnly?)null);
+            var group = CurrentGroup;
+            if (group == null && FindName("CourcesList") is ListView groupsList)
+                group = groupsList.SelectedItem as InterestGroup;
 
-            var roleItem = RoleComboBox.SelectedItem as ComboBoxItem;
-            var isModerator = roleItem?.Content?.ToString() == "Модератор";
+            var date = StartDate;
+            if (!date.HasValue && FindName("StartDatePicker") is DatePicker datePicker && datePicker.SelectedDate.HasValue)
+                date = DateOnly.FromDateTime(datePicker.SelectedDate.Value);
+
+            var role = SelectedRole;
+            if (string.IsNullOrEmpty(role) && FindName("RoleComboBox") is ComboBox roleBox && roleBox.SelectedItem is ComboBoxItem roleItem)
+                role = roleItem.Content?.ToString();
 
             if (student == null)
             {
-                MessageBox.Show("Выберите студента!");
+                MessageBox.Show("Выберите студента!", "Ошибка", MessageBoxButton.OK);
                 return;
             }
             if (group == null)
             {
-                MessageBox.Show("Выберите группу!");
+                MessageBox.Show("Выберите группу!", "Ошибка", MessageBoxButton.OK);
                 return;
             }
             if (!date.HasValue)
             {
-                MessageBox.Show("Выберите дату вступления!");
+                MessageBox.Show("Выберите дату вступления!", "Ошибка", MessageBoxButton.OK);
                 return;
             }
 
             if (_db.UserInterestGroups.Any(x =>
                 x.UserId == student.Id && x.InterestGroupId == group.Id))
             {
-                MessageBox.Show("Студент уже в этой группе");
+                MessageBox.Show("Студент уже состоит в этой группе!", "Внимание",
+                    MessageBoxButton.OK);
                 return;
             }
 
@@ -115,13 +203,17 @@ namespace pract12_TRPO.Pages
                 UserId = student.Id,
                 InterestGroupId = group.Id,
                 JoinedAt = date.Value,
-                IsModerator = isModerator
+                IsModerator = role == "Модератор"
             };
 
             _db.UserInterestGroups.Add(record);
             _db.SaveChanges();
 
-            MessageBox.Show("Готово!");
+            MessageBox.Show($"Студент \"{student.Name}\" добавлен в группу \"{group.Title}\"!",
+                "Добавлен", MessageBoxButton.OK);
+
+            UpdateAvailableGroups();
+
             if (NavigationService?.CanGoBack == true)
                 NavigationService.GoBack();
         }

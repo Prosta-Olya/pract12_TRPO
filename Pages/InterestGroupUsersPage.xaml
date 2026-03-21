@@ -29,7 +29,7 @@
         <StackPanel Grid.Row="1" Margin="5">
             <Label FontSize="20" FontWeight="Bold">Информация о пользователе</Label>
 
-            <ListView Height="200" x:Name="StudentsList"
+            <!--<ListView Height="200" x:Name="StudentsList"
                ItemsSource="{Binding Students}" 
                SelectedItem="{Binding SelectedStudent}">
                 <ListView.ItemTemplate>
@@ -43,7 +43,12 @@
                         </StackPanel>
                     </DataTemplate>
                 </ListView.ItemTemplate>
-            </ListView>
+            </ListView>-->
+
+            <TextBlock x:Name="StudentInfoBlock" 
+            Margin="0,10,0,0"
+            FontSize="20"
+            Foreground="Black"/>
 
             <StackPanel Margin="0,10,0,0">
                 <Label>Дата вступления</Label>

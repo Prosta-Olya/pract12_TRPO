@@ -1155,3 +1155,7 @@ D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8
 D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\AddInterestGroup.baml
 D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\InterestgroupPage.baml
 D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\InterestGroupUsersPage.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\GroupForm.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\GroupList.g.cs
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\GroupForm.baml
+D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\obj\Debug\net8.0-windows\Pages\GroupList.baml

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\Учеба\3 курс\ТРПО 2 семестр\pract13.2_TRPO\App.xaml
-9-1153453
+11119340022
 22685160995
-412069318131
+431087682908
 242-1866254343
-MainWindow.xaml;Pages\AddInterestGroup.xaml;Pages\InterestgroupPage.xaml;Pages\InterestGroupUsersPage.xaml;Pages\MainPage.xaml;Pages\RoleForm.xaml;Pages\RoleList.xaml;Pages\RoleUsersPage.xaml;Pages\StudentFormPage.xaml;
+MainWindow.xaml;Pages\AddInterestGroup.xaml;Pages\GroupForm.xaml;Pages\GroupList.xaml;Pages\InterestgroupPage.xaml;Pages\InterestGroupUsersPage.xaml;Pages\MainPage.xaml;Pages\RoleForm.xaml;Pages\RoleList.xaml;Pages\RoleUsersPage.xaml;Pages\StudentFormPage.xaml;
 
-True
+False
 

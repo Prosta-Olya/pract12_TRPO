@@ -38,15 +38,15 @@ namespace pract12_TRPO.Pages
         {
             if (current != null)
             {
-                if (MessageBox.Show("Вы действительно хотите удалить курс?",
-                "Удалить курс?", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                if (MessageBox.Show("Вы действительно хотите удалить группу?",
+                "Удалить группу?", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
                 {
                     service.Remove(current);
                 }
             }
             else
             {
-                MessageBox.Show("Выберите курс для удаления", "Выберите курс",
+                MessageBox.Show("Выберите группу для удаления", "Выберите группу",
                 MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
@@ -61,7 +61,7 @@ namespace pract12_TRPO.Pages
             if (current != null)
                 NavigationService.Navigate(new AddInterestGroup(current, service));
             else
-                MessageBox.Show("Выберите курс");
+                MessageBox.Show("Выберите группу");
         }
     }
 }

@@ -22,32 +22,34 @@ namespace pract12_TRPO
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Student>()
+            modelBuilder.Entity<Student>() // связь один к одному
                 .HasOne(s => s.UserProfile)
                 .WithOne(ps => ps.Student)
                 .HasForeignKey<UserProfile>(ps => ps.StudentId);
 
-            modelBuilder.Entity<Student>()
+            modelBuilder.Entity<Student>() // связь один ко многим
                 .HasOne(s => s.Role)
                 .WithMany(r => r.Students)
                 .HasForeignKey(s => s.RoleId);
 
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<UserInterestGroup>()
+            // многие ко многим
+
+            modelBuilder.Entity<UserInterestGroup>() // составной первичный ключ
                 .HasKey(uig => new { uig.UserId, uig.InterestGroupId });
 
-            modelBuilder.Entity<UserInterestGroup>()
+            modelBuilder.Entity<UserInterestGroup>() // связь со студентом
                 .HasOne(uig => uig.Student)
                 .WithMany(s => s.UserInterestGroups)
                 .HasForeignKey(uig => uig.UserId);
 
-            modelBuilder.Entity<UserInterestGroup>()
+            modelBuilder.Entity<UserInterestGroup>() // связь с группой интересов
                 .HasOne(uig => uig.InterestGroup)
                 .WithMany(g => g.UserInterestGroups)
                 .HasForeignKey(uig => uig.InterestGroupId);
 
-            modelBuilder.Entity<InterestGroup>()
+            modelBuilder.Entity<InterestGroup>() // уникальный индекс для группы
                 .HasIndex(g => g.Title)
                 .IsUnique();
         }

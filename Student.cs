@@ -75,5 +75,22 @@ namespace pract12_TRPO
             get => _userInterestGroups;
             set => SetProperty(ref _userInterestGroups, value);
         }
+
+        public string GroupsPreview
+        {
+            get
+            {
+                var db = BaseDbService.Instance.Context;
+                var groups = db.UserInterestGroups
+                    .Where(uig => uig.UserId == this.Id)
+                    .Select(uig => uig.InterestGroup.Title)
+                    .Take(3)
+                    .ToList();
+
+                return groups.Any()
+                    ? string.Join(", ", groups) + (groups.Count < db.UserInterestGroups.Count(uig => uig.UserId == this.Id) ? "..." : "")
+                    : "-";
+            }
+        }
     }
 }

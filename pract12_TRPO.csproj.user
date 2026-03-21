@@ -5,6 +5,12 @@
     <Compile Update="Pages\AddInterestGroup.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\GroupForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\GroupList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\InterestgroupPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
